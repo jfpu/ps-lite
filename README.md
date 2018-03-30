@@ -1,3 +1,11 @@
+# ps-lite for jfpu
+
+## 1.function
+
+- 1. add test/test_jfpu.cc
+
+---
+
 <img src="http://parameterserver.org/images/parameterserver.png"  width=400 />
 
 [![Build Status](https://travis-ci.org/dmlc/ps-lite.svg?branch=master)](https://travis-ci.org/dmlc/ps-lite)
